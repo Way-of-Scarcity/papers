@@ -1,10 +1,10 @@
 # The Scarcity Hypothesis Framework: A Collection of Philosophical and Mathematical Works
 
-This repository contains a collection of documents exploring the **Scarcity Hypothesis** and related frameworks I developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
+This repository contains a collection of documents exploring the **Scarcity Hypothesis** and the related frameworks I developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
 
 ## Core Concept
 
-The central thesis across all documents is that **scarcity** (or "lack") is the fundamental driver of all processes in the universe. As stated in the foundational work: *"The lack of something causes its pursuit; more strongly, the lack of something necessitates its existence."* This principle applies from quantum mechanics to human desires, from mathematical structures to cosmic evolution.
+The central thesis across all documents is that **absence** (or "lack") is the fundamental driver of all processes in the universe. As stated in the foundational work: *"The lack of something causes its pursuit; more strongly, the lack of something necessitates its existence."* This principle applies from quantum mechanics to human desires, from mathematical structures to cosmic evolution.
 
 ## Document Overview
 
