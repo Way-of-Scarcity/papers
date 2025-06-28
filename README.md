@@ -1,6 +1,6 @@
-# The Scarcity Framework: A Collection of Philosophical and Mathematical Works
+# The Scarcity Hypothesis Framework: A Collection of Philosophical and Mathematical Works
 
-This repository contains a collection of documents exploring the **Scarcity Hypothesis** and related frameworks I have developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
+This repository contains a collection of documents exploring the **Scarcity Hypothesis** and related frameworks I developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
 
 ## Core Concept
 
@@ -10,7 +10,7 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 
 ### Primary Works
 
-#### [2009 - The Scarcity Hypothesis [S.H.] - Dustin Darcy.pdf](./2009%20-%20The%20Scarcity%20Hypothesis%20%5BS.H.%5D%20-%20Dustin%20Darcy.pdf)
+#### [2009 - The Scarcity Hypothesis [S.H.]](./2009%20-%20The%20Scarcity%20Hypothesis%20%5BS.H.%5D%20-%20Dustin%20Darcy.pdf)
 **The Foundation Document** - This is the original formulation of the Scarcity Hypothesis that unifies multiple disciplines through the concept of scarcity.
 
 **Key Concepts:**
@@ -21,9 +21,10 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - **Economic Theory**: Argues no economic system is inherently "best"; rather each has its time and place based on scarcity conditions
 - **Theological Implications**: Suggests omni-theism where both atheism and theism can be correct without paradox
 
-**Visual Elements:** Contains detailed graphs and diagrams showing the cyclical nature of scarcity and civilization development.
+**Visual Elements:** Contains diagrams showing the cyclical nature of scarcity and civilization development.
+_____
 
-#### [2025 - Zero_AG to The Scarcity Framework, A Comprehensive Guide - D. Darcy.pdf](./2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf)
+#### [2025 - Zero_AG to The Scarcity Framework, A Comprehensive Guide](./2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf)
 **The Comprehensive Synthesis** - A 29-page unification document that builds from foundational logical concepts to the complete Scarcity Framework.
 
 **Progressive Structure:**
@@ -41,10 +42,11 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - Palindromic patterns in base-10 multiplication
 - [Triangular number relationships to prime sequences](https://github.com/djdarcy/Prime-Square-Sum)
 - Fixed-point identities and recursive mathematical structures
+_____
 
 ### Supporting Documents
 
-#### [2018 - Division at Every Level of Human Society (v1.0.6) - D. Darcy.pdf](./2018%20-%20Division%20at%20Every%20Level%20of%20Human%20Society%20%28v1.0.6%29%20-%20D.%20Darcy.pdf)
+#### [2018 - Division at Every Level of Human Society (v1.0.6)](./2018%20-%20Division%20at%20Every%20Level%20of%20Human%20Society%20%28v1.0.6%29%20-%20D.%20Darcy.pdf)
 **Sociological Analysis** - Application of scarcity principles to understanding social stratification and conflict.
 
 **Analysis Areas:**
@@ -52,8 +54,9 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - Division patterns across different scales of human organization
 - Economic, political, and cultural manifestations of scarcity-driven division
 - Strategies for managing societal transitions in the Scarcity Framework
+_____
 
-#### [2011 - Miscellaneous QA (v2.0.7.6) - D. Darcy.pdf](./2011%20-%20Miscellaneous%20QA%20%28v2.0.7.6%29%20-%20D.%20Darcy.pdf)
+#### [2011 - Miscellaneous QA (v2.0.7.6)](./2011%20-%20Miscellaneous%20QA%20%28v2.0.7.6%29%20-%20D.%20Darcy.pdf)
 **Questions & Answers** - Collection of responses to common questions about the Scarcity Hypothesis.
 
 **Format:** FAQ-style document addressing:
@@ -61,13 +64,15 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - Practical applications of the theory
 - Responses to criticisms and alternative interpretations
 - Extensions and refinements of the original framework
+_____
 
-#### [2009 - A Theory of Moral Reasoning Ethics & Scarcity - Dustin Darcy.docx](./2009%20-%20A%20Theory%20of%20Moral%20Reasoning%20Ethics%20%26%20Scarcity%20-%20Dustin%20Darcy.docx)
+#### [2009 - A Theory of Moral Reasoning Ethics & Scarcity](./2009%20-%20A%20Theory%20of%20Moral%20Reasoning%20Ethics%20%26%20Scarcity%20-%20Dustin%20Darcy.docx)
 **Ethical Framework** - Word document exploring the moral implications of scarcity-based systems.
 
 **Content:** Develops ethical frameworks for decision-making within scarcity-constrained environments, including resource allocation principles and moral reasoning under scarcity conditions.
+_____
 
-#### [2009 - The Scarcity Hypothesis, citation 1, crspd.pdf](./2009%20-%20The%20Scarcity%20Hypothesis%2C%20citation%201%2C%20crspd.pdf)
+#### [2009 - The Scarcity Hypothesis, citation 1, crspd](./2009%20-%20The%20Scarcity%20Hypothesis%2C%20citation%201%2C%20crspd.pdf)
 **Online Discussion Archive** - Original posts discussing economic scarcity and class systems.
 
 **Content:** Early public discussions of scarcity theory, including debates about:
@@ -75,8 +80,9 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - Meritocracy vs. socialist approaches
 - The relationship between scarcity and moral reasoning
 - Resource allocation in conditions of extreme scarcity
+_____
 
-#### ∅ [2011 - The Seven Types of Absence (v1.4.4.1) - D. Darcy.pdf](./2011%20-%20The%20Seven%20Types%20of%20Absence%20%28v1.4.4.1%29%20-%20D.%20Darcy.pdf)
+#### [2011 - The Seven Types of Absence (v1.4.4.1)](./2011%20-%20The%20Seven%20Types%20of%20Absence%20%28v1.4.4.1%29%20-%20D.%20Darcy.pdf)
 **Logical Foundations** - Detailed exploration of the foundational logical framework underlying the Scarcity Hypothesis.
 
 **Core Content:**
@@ -84,8 +90,9 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - Mathematical formalization of different types of absence
 - Connection between logical operations and physical reality
 - Foundation for the Zero_AG (Zero Complete) concept developed in the 2025 work
+_____
 
-#### [2010 - Understanding End Self and the Q3 - Q4 Crossover (v.0.1.9) - D. Darcy.pdf](./2010%20-%20Understanding%20End%20Self%20and%20the%20Q3%20-%20Q4%20Crossover%20%28v.0.1.9%29%20-%20D.%20Darcy.pdf)
+#### [2010 - Understanding End Self and the Q3 - Q4 Crossover (v.0.1.9)](./2010%20-%20Understanding%20End%20Self%20and%20the%20Q3%20-%20Q4%20Crossover%20%28v.0.1.9%29%20-%20D.%20Darcy.pdf)
 **Transition Analysis** - Detailed examination of the crossover transition point in the Scarcity Hypothesis cycle.
 
 **Focus Areas:**
@@ -93,9 +100,9 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 - **Positive vs. Negative Outcomes**: How the Q3-Q4 transition can lead to either universal empowerment or totalitarian control
 - **Consequence Dimension**: Introduction of the Z-axis representing positive/negative outcomes
 - **Economic Implications**: How infinite value production relates to post-scarcity economics
+_____
 
-
-#### [2011 - Fear, Consequence, and Scarcity (v0.1.1) - D. Darcy.pdf](./2011%20-%20Fear%2C%20Consequence%2C%20and%20Scarcity%20%28v0.1.1%29%20-%20D.%20Darcy.pdf)
+#### [2011 - Fear, Consequence, and Scarcity (v0.1.1)](./2011%20-%20Fear%2C%20Consequence%2C%20and%20Scarcity%20%28v0.1.1%29%20-%20D.%20Darcy.pdf)
 **Psychological Framework** - Explores the emotional and psychological dimensions of scarcity.
 
 **Key Topics:**
@@ -127,7 +134,7 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 ## Reading Recommendations
 
 ### For Newcomers
-1. Start with **[2009 - The Scarcity Hypothesis](https://github.com/Way-of-Scarcity/papers/blob/main/2009%20-%20The%20Scarcity%20Hypothesis%20%5BS.H.%5D%20-%20Dustin%20Darcy.pdf) ** for the foundational concepts
+1. Start with **[2009 - The Scarcity Hypothesis](https://github.com/Way-of-Scarcity/papers/blob/main/2009%20-%20The%20Scarcity%20Hypothesis%20%5BS.H.%5D%20-%20Dustin%20Darcy.pdf)** for the foundational concepts
 2. **[2025 - Zero_AG to The Scarcity Framework](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf)** provides the most comprehensive treatment
 3. **[2011 - Miscellaneous QA](https://github.com/Way-of-Scarcity/papers/blob/main/2011%20-%20Miscellaneous%20QA%20(v2.0.7.6)%20-%20D.%20Darcy.pdf)** for common questions and clarifications
 4. Explore **[2018 - Division at Every Level](https://github.com/Way-of-Scarcity/papers/blob/main/2018%20-%20Division%20at%20Every%20Level%20of%20Human%20Society%20(v1.0.6)%20-%20D.%20Darcy.pdf)** for sociological applications
@@ -142,14 +149,14 @@ The central thesis across all documents is that **scarcity** (or "lack") is the 
 
 ## Historical Context
 
-These documents span **16 years of development** (2009-2025), showing the evolution of a unified theoretical framework:
+These documents span 16 years of development (2009-2025), showing the evolution of a unified theoretical framework:
 
 - **2009**: Initial formulation and discussion
 - **2010-2011**: Refinement and clarification of key concepts  
 - **2018**: Application to sociological analysis
 - **2025**: Synthesis and mathematical formalization
 
-The progression from the original core insights about scarcity as a universal driver continue to be expanded into a comprehensive framework touching multiple disciplines.
+The progression from the original core insights about scarcity as a universal driver continues to be expanded exploring how the idea affects multiple, if not all, disciplines.
 
 ---
 
