@@ -1,6 +1,6 @@
 # The Scarcity Hypothesis Framework: A Collection of Philosophical and Mathematical Works
 
-This repository contains a collection of documents exploring the **Scarcity Hypothesis** and the related frameworks I developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
+This repository contains a collection of documents exploring the **Scarcity Hypothesis** and related frameworks developed from 2009 to 2025. These works represent a unified theory connecting mathematics, philosophy, ethics, economics, and cosmology through the fundamental concept of absence and scarcity.
 
 ## Core Concept
 
