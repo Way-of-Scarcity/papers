@@ -48,8 +48,8 @@ _____
 2. **Contradictions** - How logical contradictions enable transitions and create structure
 3. **Grouping/Ungrouping** - Fundamental categorization mechanisms  
 4. **Primes 2 and 5** - Mathematical bridges in composite base systems
-5. **SPCR Framework** - Story, Puzzle, Content, Result as universal process
-6. **Cyclic Archetypes** - Beginning, Peak, End, Hidden as evolutionary patterns
+5. **Cyclic Archetypes** - Beginning, Peak, End, Hidden as evolutionary patterns
+6. **SPCR Framework** - Story, Puzzle, Content, Result as universal process
 7. **PUVM Framework** - Philosophy, Utility, Value, Marketing as evaluation system
 8. **The Scarcity Hypothesis** - Grand unification of all concepts
 
