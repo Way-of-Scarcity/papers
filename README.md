@@ -30,7 +30,7 @@ The central thesis across all documents is that **absence** (or "lack") is the f
 **The Foundation Document** - This is the original formulation of the Scarcity Hypothesis that unifies multiple disciplines through the concept of scarcity.
 
 **Key Concepts:**
-- **Mathematical Framework**: Uses trigonometric functions where life as exigency = cosine, life as good = sine, and life as value = tangent
+- **Mathematical Framework**: Uses trigonometric functions where life as exigency (imposed by nature as `-x` vs. choice `+x`) = cosine, life as a good to be consumed (for either self `+y` vs. group `-y`) = sine, and life as value to be produced and reproduced = tangent (as a ratio of `y/x = good/exigency`)
 - **Four Seasons of Scarcity**: Q1 (Aesthetic/Summer), Q2 (Simplicity/Fall), Q3 (Competition/Winter), Q4 (Plenty/Spring)
 - **Civilization Progression**: Maps human development from Early-Homo through Kardashev Type 1-4 civilizations
 - **Cosmic Timeline**: Places current humanity at ~270° approaching the transition from Type 0 to Type 1 civilization
