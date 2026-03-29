@@ -10,7 +10,7 @@ The central thesis across all documents is that **absence** (or "lack") is the f
 
 ### For Newcomers
 1. Start with **[2009 - The Scarcity Hypothesis](https://github.com/Way-of-Scarcity/papers/blob/main/2009%20-%20The%20Scarcity%20Hypothesis%20%5BS.H.%5D%20-%20Dustin%20Darcy.pdf)** for the foundational concepts
-2. **[2025 - Zero_AG to The Scarcity Framework](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf)** provides the most comprehensive treatment
+2. **[2025 - Zero_AG to The Scarcity Framework](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Guide%20-%20D.%20Darcy.pdf)** provides the most comprehensive treatment
 3. **[2011 - Miscellaneous QA](https://github.com/Way-of-Scarcity/papers/blob/main/2011%20-%20Miscellaneous%20QA%20(v2.0.7.6)%20-%20D.%20Darcy.pdf)** for common questions and clarifications
 4. Explore **[2018 - Division at Every Level](https://github.com/Way-of-Scarcity/papers/blob/main/2018%20-%20Division%20at%20Every%20Level%20of%20Human%20Society%20(v1.0.6)%20-%20D.%20Darcy.pdf)** for epistemic & anthropological applications
 5. Read **[2010 - Understanding End Self](https://github.com/Way-of-Scarcity/papers/blob/main/2010%20-%20Understanding%20End%20Self%20and%20the%20Q3%20-%20Q4%20Crossover%20(v.0.1.9)%20-%20D.%20Darcy.pdf)** for clarification on key transition points  
@@ -18,7 +18,7 @@ The central thesis across all documents is that **absence** (or "lack") is the f
 
 ### For Specific Interests
 - **Economics**: [2009 Citation document](https://github.com/Way-of-Scarcity/papers/blob/main/2009%20-%20The%20Scarcity%20Hypothesis%2C%20citation%201%2C%20crspd.pdf) + [Division at Every Level](https://github.com/Way-of-Scarcity/papers/blob/main/2018%20-%20Division%20at%20Every%20Level%20of%20Human%20Society%20(v1.0.6)%20-%20D.%20Darcy.pdf)
-- **Mathematics**: [2025 Comprehensive Guide](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf) (Sections 4-6)  
+- **Mathematics**: [2025 Comprehensive Guide](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Guide%20-%20D.%20Darcy.pdf) (Sections 4-6)  
 - **Philosophy**: [Seven Types of Absence](https://github.com/Way-of-Scarcity/papers/blob/main/2011%20-%20The%20Seven%20Types%20of%20Absence%20(v1.4.4.1)%20-%20D.%20Darcy.pdf) + [Moral Reasoning document](https://github.com/Way-of-Scarcity/papers/blob/main/2009%20-%20A%20Theory%20of%20Moral%20Reasoning%20Ethics%20%26%20Scarcity%20-%20Dustin%20Darcy.docx)
 - **Psychology**: [Fear, Consequence, and Scarcity](https://github.com/Way-of-Scarcity/papers/blob/main/2011%20-%20Fear%2C%20Consequence%2C%20and%20Scarcity%20(v0.1.1)%20-%20D.%20Darcy.pdf)
 
@@ -40,7 +40,7 @@ The central thesis across all documents is that **absence** (or "lack") is the f
 **Visual Elements:** Contains diagrams showing the cyclical nature of scarcity and civilization development.
 _____
 
-#### [2025 - Zero_AG to The Scarcity Framework, A Comprehensive Guide](./2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Comprehensive%20Guide%20-%20D.%20Darcy.pdf)
+#### [2025 - Zero_AG to The Scarcity Framework, A Comprehensive Guide](https://github.com/Way-of-Scarcity/papers/blob/main/2025%20-%20Zero_AG%20to%20The%20Scarcity%20Framework%2C%20A%20Guide%20-%20D.%20Darcy.pdf)
 **The Comprehensive Synthesis** - A 29-page unification document that builds from foundational logical concepts to the complete Scarcity Framework.
 
 **Progressive Structure:**
